@@ -1,0 +1,8 @@
+n_epochs : 50
+batch_size : 8
+lr : 0.001
+device : "cuda"
+save_model_name : "checkpoints/model.pth"
+img_dir : "data"
+train : True
+test : True
